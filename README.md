@@ -6,7 +6,8 @@ The face is one of the easiest ways to distinguish the individual identity of ea
 Problem formulation of our project:
 
 
- 
+ ![face recog](https://user-images.githubusercontent.com/30971726/103528431-f3b38480-4ea9-11eb-9492-16af592b2d06.jpg)
+
   
    
 
